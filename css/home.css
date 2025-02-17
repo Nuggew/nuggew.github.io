@@ -1,0 +1,20 @@
+.profile{
+    display: flex;
+    flex-direction: row;
+}
+.profile>.normalize{
+    flex-direction: column;
+    margin-left: 10px;
+}
+
+.pfp{width: 20%;}
+.profilename{
+    font-family: MS UI Gothic, Helvetica, sans serif;
+    color: black;
+    width: min-content;
+    font-weight: 400;
+}
+
+em{
+    color: #968730;
+}
