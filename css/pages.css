@@ -5,6 +5,11 @@
     overflow-x: hidden;
 }
 
+::selection{
+    background-color: #c2b9a2;
+    color: white;
+}
+
 body{
     font-family: MS UI Gothic, Helvetica, sans serif;
 }
