@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Nuggew/nuggew.github.io/main)
 my very own portfolio website inspired on <a href="https://blanketfort.neocities.org/">⌂ blanket fort</a>
 
 <img height="250" src="https://github.com/user-attachments/assets/17ebcf07-429b-4847-bad9-05e6bd4506ce">
