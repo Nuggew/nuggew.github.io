@@ -45,25 +45,8 @@ body{
     and (orientation: portrait){
     .main{
         position: absolute;
-        top: 2.5%;
-        left: 5%;
-    
-        background-color: #dfdfc3;
-        border: 1px solid #655057;
-            
-        height: 95%;
-        width: 90%;
-    }
-}
- 
-/* For Mobile Landscape View */
-@media screen
-    and (max-device-width: 768px)
-    and (orientation: landscape){
-    .main{
-        position: absolute;
-        top: 2.5%;
-        left: 5%;
+        top: 0%;
+        left: 0%;
     
         background-color: #dfdfc3;
         border: 1px solid #655057;
