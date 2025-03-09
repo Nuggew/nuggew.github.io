@@ -39,3 +39,17 @@ body{
     height: 100%;
     bottom: 0;
 }
+
+@media only screen and (max-device-width: 640px) {
+    .main{
+        position: absolute;
+        top: 2.5%;
+        left: 5%;
+
+        background-color: #dfdfc3;
+        border: 1px solid #655057;
+        
+        height: 95%;
+        width: 90%;
+    }
+}
