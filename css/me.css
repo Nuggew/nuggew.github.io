@@ -1,7 +1,9 @@
 .horizontal-list{
-    display: flex;
-    flex-direction: row;
+    white-space: nowrap;
+    width: 90%;
     list-style: none;
+    overflow-x: auto;
+    overflow-y: hidden;
 }
 
 .band{
@@ -11,5 +13,7 @@
 }
 
 ul{
-    margin-right: 5px;
+    display: inline-block;
+    zoom: 1;
+    padding-right: 2.5px;
 }
